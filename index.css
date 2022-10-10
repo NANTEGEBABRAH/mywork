@@ -1,0 +1,25 @@
+*{
+    background-color: darkorange;
+}
+#Bab1{
+    background-color: blue;
+    color: black;
+}
+.Bab2{
+    background-color: darkorchid;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: unset;
+}
+.Bab3{
+    background-color: aqua;
+    color: blue;
+    font-style: inherit;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.container{
+    padding-left: 100px;
+    padding-top: 100px;
+    padding-right: 100px;
+    padding-bottom: 100px;
+}
